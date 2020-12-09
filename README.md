@@ -3,6 +3,8 @@
 Team Name: Frost White
 Team members: Shiyu Lin Yilu Liang
 
+GitHub Link: https://github.com/sunyanl1236/Covid19FactChecking/edit/master
+
 
 1. Open utilityFunc.ipynb with jupyter notebook
 2. Execuate all cells (make sure the input files are under the same path as utilityFunc.ipynb)
